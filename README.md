@@ -2,5 +2,5 @@
 
 Dataset : https://www.kaggle.com/mrwellsdavid/unsw-nb15 
 
-The following steps have been followed in out project,
+The following steps have been followed in our project,
 
